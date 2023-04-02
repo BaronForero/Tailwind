@@ -5,3 +5,9 @@ Sure! Here's the description with some additional emojis:
 Below the current weather section, there is a horizontal bar that displays three more weather items, each with its image and a temperature and weather description. The items include another thunderstorm ⛈️, a rain shower 🌧️, and sunny weather ☀️.
 
 The page is styled using the Tailwind CSS framework 💻, and it uses various classes to set the background color 🎨, font color 🔤, and other styles of the different elements.
+
+
+<img src="https://img.icons8.com/color/96/000000/html-5.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript.png"/><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="Tailwind CSS" height="50">
+
+
+
